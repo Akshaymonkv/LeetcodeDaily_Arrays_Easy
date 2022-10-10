@@ -1,4 +1,4 @@
-<h1>Using a hash map</h1>
+//Using a hash map
 
    var twoSum = function(nums, target) {
    var map={}
