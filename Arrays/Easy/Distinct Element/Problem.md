@@ -1,0 +1,9 @@
+Input: arr = ["d","b","c","b","c","a"], k = 2
+</br>
+Output: "a"
+</br>
+Explanation:
+The only distinct strings in arr are "d" and "a".
+"d" appears 1st, so it is the 1st distinct string.
+"a" appears 2nd, so it is the 2nd distinct string.
+Since k == 2, "a" is returned. 
